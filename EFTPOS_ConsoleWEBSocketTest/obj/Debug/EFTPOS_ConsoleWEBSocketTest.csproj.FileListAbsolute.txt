@@ -1,0 +1,8 @@
+D:\Repos\FTPPOSService\EFTPOS_ConsoleWEBSocketTest\bin\Debug\EFTPOS_ConsoleWEBSocketTest.exe.config
+D:\Repos\FTPPOSService\EFTPOS_ConsoleWEBSocketTest\bin\Debug\EFTPOS_ConsoleWEBSocketTest.exe
+D:\Repos\FTPPOSService\EFTPOS_ConsoleWEBSocketTest\bin\Debug\EFTPOS_ConsoleWEBSocketTest.pdb
+D:\Repos\FTPPOSService\EFTPOS_ConsoleWEBSocketTest\obj\Debug\EFTPOS_ConsoleWEBSocketTest.csproj.AssemblyReference.cache
+D:\Repos\FTPPOSService\EFTPOS_ConsoleWEBSocketTest\obj\Debug\EFTPOS_ConsoleWEBSocketTest.csproj.SuggestedBindingRedirects.cache
+D:\Repos\FTPPOSService\EFTPOS_ConsoleWEBSocketTest\obj\Debug\EFTPOS_ConsoleWEBSocketTest.csproj.CoreCompileInputs.cache
+D:\Repos\FTPPOSService\EFTPOS_ConsoleWEBSocketTest\obj\Debug\EFTPOS_ConsoleWEBSocketTest.exe
+D:\Repos\FTPPOSService\EFTPOS_ConsoleWEBSocketTest\obj\Debug\EFTPOS_ConsoleWEBSocketTest.pdb
